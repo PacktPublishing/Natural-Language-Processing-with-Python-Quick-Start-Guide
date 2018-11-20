@@ -50,3 +50,6 @@ Each section builds on ideas and code from previous notebooks, but you can fill 
 - simpler, direct problem formulation instead of complicated chatbot tutorials commonly seen
 - intents, responses and templates in chat bot parlance
 - hacking word based similarity engine to work with little to no training samples
+
+## Chapter 08
+- Explains how to deploy PyTorch for inference e.g. as a web microservice
