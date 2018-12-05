@@ -4,7 +4,7 @@
 
 This is the code repository for [Natural Language Processing with Python Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-quick-start-guide?utm_source=github&utm_medium=repository&utm_campaign=9781789130386 ), published by Packt.
 
-**Going from a Python developer to an effective Natural Language Processing Engineer*
+**Going from a Python developer to an effective Natural Language Processing Engineer**
 
 ## What is this book about?
 NLP in Python is among the most sought after skills among data scientists. With code and relevant case studies, this book will show how you can use industry-grade tools to implement NLP programs capable of learning from relevant data. We will explore many modern methods ranging from spaCy to word vectors that have reinvented NLP.
