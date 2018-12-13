@@ -10,14 +10,14 @@ This is the code repository for [Natural Language Processing with Python Quick S
 NLP in Python is among the most sought after skills among data scientists. With code and relevant case studies, this book will show how you can use industry-grade tools to implement NLP programs capable of learning from relevant data. We will explore many modern methods ranging from spaCy to word vectors that have reinvented NLP.
 
 This book covers the following exciting features:
-Understand classical linguistics in using English grammar for automatically generating questions and answers from a free text corpus 
-Work with text embedding models for dense number representations of words, subwords and characters in the English language for exploring document clustering 
-Deep Learning in NLP using PyTorch with a code-driven introduction to PyTorch 
-Using an NLP project management Framework for estimating timelines and organizing your project into stages 
-Hack and build a simple chatbot application in 30 minutes 
-Deploy an NLP or machine learning application using Flask as RESTFUL APIs 
+* Understand classical linguistics in using English grammar for automatically generating questions and answers from a free text corpus 
+* Work with text embedding models for dense number representations of words, subwords and characters in the English language for exploring document clustering 
+* Deep Learning in NLP using PyTorch with a code-driven introduction to PyTorch 
+* Using an NLP project management Framework for estimating timelines and organizing your project into stages 
+* Hack and build a simple chatbot application in 30 minutes 
+* Deploy an NLP or machine learning application using Flask as RESTFUL APIs 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/9781789130386) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B07L3PLQS1) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -43,9 +43,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789130386_ColorImages.pdf).
 
 ### Related products
-* Natural Language Processing with Java  [[Packt]](https://india.packtpub.com/in/application-development/natural-language-processing-java?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781784391799)
+* Natural Language Processing with Java  [[Packt]](https://india.packtpub.com/in/application-development/natural-language-processing-java?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788993497)
 
-* Mastering Natural Language Processing with Python  [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/mastering-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/9781783989041)
+* Mastering Natural Language Processing with Python  [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/mastering-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783989041)
 
 
 ## Get to Know the Author
